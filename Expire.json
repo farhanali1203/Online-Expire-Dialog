@@ -1,5 +1,5 @@
 {
-  "state": "maintenance",
+  "state": "expired",
   "expiry_date": "2026-01-01",
-  "message": "Server is under maintenance. Please try again later."
+  "message": "Your access has expired. Contact @FarhanModzBack to renew."
 }
