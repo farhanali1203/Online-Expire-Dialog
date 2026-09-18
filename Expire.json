@@ -1,5 +1,4 @@
 {
-  "state": "maintenance",
-  "expiry_date": "2026-01-01",
-  "message": "Server is under maintenance. Please try again later."
+  "state": "continue",
+  "expiry_date": "2027-01-01",
 }
